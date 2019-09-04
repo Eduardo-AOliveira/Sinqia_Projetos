@@ -1,0 +1,6 @@
+C:\Users\emilio\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEventos\Projeto02_AcessoDados\bin\Debug\Projeto02_AcessoDados.dll
+C:\Users\emilio\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEventos\Projeto02_AcessoDados\bin\Debug\Projeto02_AcessoDados.pdb
+C:\Users\emilio\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEventos\Projeto02_AcessoDados\obj\Debug\Projeto02_AcessoDados.csprojAssemblyReference.cache
+C:\Users\emilio\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEventos\Projeto02_AcessoDados\obj\Debug\Projeto02_AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\emilio\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEventos\Projeto02_AcessoDados\obj\Debug\Projeto02_AcessoDados.dll
+C:\Users\emilio\Documents\Sinqia_AspNet\Modulo03_AdoNet\GestaoEventos\Projeto02_AcessoDados\obj\Debug\Projeto02_AcessoDados.pdb
